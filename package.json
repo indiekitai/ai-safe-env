@@ -1,0 +1,32 @@
+{
+  "name": "ai-safe-env",
+  "version": "1.0.0",
+  "description": "Protect .env secrets from AI coding tools. Drop-in dotenv replacement with encrypted local store.",
+  "main": "index.js",
+  "bin": {
+    "ai-safe-env": "./cli.js"
+  },
+  "keywords": [
+    "dotenv",
+    "env",
+    "secrets",
+    "ai",
+    "security",
+    "encryption",
+    "claude",
+    "cursor",
+    "copilot"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "files": [
+    "index.js",
+    "cli.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indiekitai/ai-safe-env"
+  },
+  "author": "IndieKit <hello@indiekit.ai>"
+}
