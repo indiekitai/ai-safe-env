@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # ai-safe-env
 
 **Protect .env secrets from AI coding tools.** Zero-dependency Node.js alternative to [enveil](https://github.com/GreatScott/enveil).
